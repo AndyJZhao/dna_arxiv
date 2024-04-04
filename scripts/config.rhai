@@ -1,6 +1,6 @@
 let titles_type = ["Long Sequence", "Long Context"];
 let titles_model = ["Transformer", "GPT", "Bert", "Mamba", "Hyena", "StripedHyena"];
-let titles_method = ["DNA", "Genome"];
+let titles_method = ["DNA", "Genome", "Genomic", "gene"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Brian L. Hie", "Tri Dao", "Albert Gu"];
 
