@@ -1,5 +1,5 @@
 site_title = "Long Sequence Model and DNA Daily Feed"
-limit_days = 7
+limit_days = 30
 cache_url = "https://andyjzhao.github.io/dna_arxiv/cache.json"
 
 [[sources]]
