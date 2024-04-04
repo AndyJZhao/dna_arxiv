@@ -4,6 +4,20 @@ cache_url = "https://andyjzhao.github.io/dna_arxiv/cache.json"
 
 [[sources]]
 limit = 150
+category = "q-bio.GN"
+title = "Genomics"
+
+[[sources]]
+limit = 150
+category = "q-bio.BM"
+title = "Biomolecules"
+
+[[sources]]
+limit = 150
+category = "q-bio.MN"
+title = "Molecular Networks"
+[[sources]]
+limit = 150
 category = "cs.CL"
 title = "Computation and Language"
 
@@ -14,8 +28,9 @@ title = "Machine Learning"
 
 [[sources]]
 limit = 150
-category = "cs.MM"
-title = "Multimedia"
+category = "cs.SI"
+title = "Social and Information Networks"
+
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
